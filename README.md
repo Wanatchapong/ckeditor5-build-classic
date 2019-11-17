@@ -1,7 +1,7 @@
-CKEditor 5 classic editor build
+CKEditor 5 Classic Build Plus - Version 1.0.0 (Customized By EMETWORKS)
 ========================================
 
-[![npm version](https://badge.fury.io/js/%40ckeditor%2Fckeditor5-build-classic.svg)](https://www.npmjs.com/package/@ckeditor/ckeditor5-build-classic)
+<!-- [![npm version](https://badge.fury.io/js/%40ckeditor%2Fckeditor5-build-classic.svg)](https://www.npmjs.com/package/@ckeditor/ckeditor5-build-classic) -->
 [![Build Status](https://travis-ci.org/ckeditor/ckeditor5-build-classic.svg?branch=master)](https://travis-ci.org/ckeditor/ckeditor5-build-classic)
 <br>
 [![Dependency Status](https://david-dm.org/ckeditor/ckeditor5-build-classic/status.svg)](https://david-dm.org/ckeditor/ckeditor5-build-classic)
@@ -10,6 +10,18 @@ CKEditor 5 classic editor build
 The classic editor build for CKEditor 5. Read more about the [classic editor build](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/overview.html#classic-editor) and see the [demo](https://ckeditor.com/docs/ckeditor5/latest/examples/builds/classic-editor.html).
 
 ![CKEditor 5 classic editor build screenshot](https://c.cksource.com/a/1/img/npm/ckeditor5-build-classic.png)
+
+## <a name="Additional-Plugins">Additional Plugins</a>
+- Alignment
+- Underline
+- Strikethrough
+- Code
+- Subscript
+- Superscript
+- Font
+- Highlight
+- HorizontalLine
+- ImageResize
 
 ## Documentation
 
